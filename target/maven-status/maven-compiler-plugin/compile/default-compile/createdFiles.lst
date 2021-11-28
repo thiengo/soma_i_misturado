@@ -1,0 +1,6 @@
+com\thiengo\challenge2\strategies\iamong\IAmoungStrategy$IMatrix.class
+com\thiengo\challenge2\strategies\fileloader\FileLoaderStrategy.class
+com\thiengo\challenge2\Main.class
+com\thiengo\challenge2\strategies\fileloader\FileLoaderConcreteStrategyFromResourceImpl.class
+com\thiengo\challenge2\strategies\iamong\IAmong.class
+com\thiengo\challenge2\strategies\iamong\IAmoungStrategy.class
